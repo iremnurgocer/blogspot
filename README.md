@@ -1,1 +1,2 @@
-# İnsanların kedni bloglarını yayınlayabilecekleri bir platform.
+İnsanların blog yayınlayabilecekleri bir plaform.
+a platform where people can blog.
