@@ -1,0 +1,49 @@
+@charset "utf-8";
+@import url("forms.css");
+@import url("tables.css");
+@import url("navi.css");
+.orta{
+    width: 900;
+    float:left;
+    display:block; position:static;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:5px;
+    
+}
+.blog_yazilar{
+    border-style: outset;
+    height: auto;
+display:block; margin:0 0 1px 0; text-align:center;
+display:block; position:relative; width:960px; margin:5 auto;
+padding:auto;
+}
+.sol{
+width: 200px;
+min-height: 600px;
+background-color: #E0E0E0;
+float: left;
+}
+.dipnot{
+    background-color: gray;
+    height: 100px;
+    clear: both;
+
+}
+
+div.Admin_sayfasi{
+    width: 1300px;
+    min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color:rgb(209, 240, 233);
+
+    
+}
+#clear{
+    clear:both;
+}
+div.wrapper{display:block; margin:0 0 1px 0; text-align:left;}
+div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+
